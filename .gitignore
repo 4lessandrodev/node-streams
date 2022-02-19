@@ -1,0 +1,4 @@
+node_modules/
+dist/
+less-than-2000.json
+greater-than-2000.json
